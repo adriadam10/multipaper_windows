@@ -1,5 +1,5 @@
 @echo off
-title Server Minecraft
+title Multipaper Node Server
 setlocal enabledelayedexpansion
 cd %~dp0
 if not exist "multipaper.yml" (
